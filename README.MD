@@ -7,4 +7,4 @@ Press both buttons for a TTS version of the data!
 To setup:
 Have runner.py running in the background of the PC which the Microbit V2 is plugged into.
 Copy all of the files within microbitFiles to a Microbit V2 with CODAL.
-Create a file called key.txt, containing your BODS API Key.
+Create a file called key.txt, containing your BODS API Key, in the pcFiles directory.
